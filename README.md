@@ -110,5 +110,75 @@ Keluar dari menu admin dapat dilakukan dengan cara memilih angka 5. Program akan
 
 ![image](https://github.com/AryaWirawwn/Praktikum-Post-Test-2/assets/143393183/cfbfd942-1697-40b7-9c95-a7908b8f7862)
 
-Jika angka yang dimasukkan selain angka 1 sampai 5 maka akan muncul pesan "Tidak ada menu untuk angka {menuAdmin}."
+Jika angka yang dimasukkan selain angka 1 sampai 5 maka akan muncul pesan "Tidak ada menu untuk angka {angka yang dimasukkan}."
 
+## Menu Pembeli
+
+![image](https://github.com/AryaWirawwn/Praktikum-Post-Test-2/assets/143393183/11a8a718-55a3-4aad-b9e8-c65920c61a50)
+
+
+Menu pembeli akan muncul jika angka 2 dipilih di menu awal.
+
+### Penjelasan Menu 
+
+**1. Tampilkan Barang**
+
+![image](https://github.com/AryaWirawwn/Praktikum-Post-Test-2/assets/143393183/c3e9f3e8-bed3-40c9-8eb9-814a1035f2aa)
+
+Menampilkan barang yang dijual dapat dilakukan dengan cara memilih angka 1 di menu pembeli.
+
+**2. Beli Barang**
+
+![image](https://github.com/AryaWirawwn/Praktikum-Post-Test-2/assets/143393183/e4ac04c1-6465-4126-afbd-c34cc942c2b5)
+
+Membeli barang dapat dilakukan dengan cara memilih angka 2 di menu pembeli. Menu yang muncul pertama adalah masukkan nama barang yang ingin dibeli nama barang harus ada di database sebagai contoh saya memasukkan PRS SE Angelus.
+
+![image](https://github.com/AryaWirawwn/Praktikum-Post-Test-2/assets/143393183/9a94fdba-ac6f-4d37-92ef-693096aafa06)
+
+Menu kedua yang muncul adalah masukkan kuantitas barang. Disini dapat diisi dengan berapa banyak kuantitas dari barang yang ingin dibeli sebagai contoh saya isi 2.  
+
+![image](https://github.com/AryaWirawwn/Praktikum-Post-Test-2/assets/143393183/6cb19fc0-e6f8-4358-992d-5f074313b51a)
+
+Jika berhasil maka akan ada pesan barang berhasil dibeli dan menampilkan sisa saldo.
+
+![image](https://github.com/AryaWirawwn/Praktikum-Post-Test-2/assets/143393183/41a95e63-d2df-4edd-957b-ddb9e9e31522)
+
+Jika barang yang ingin dibeli tidak ada di database maka akan muncul pesan "Tidak ada barang dengan nama {nama barang}."
+
+![image](https://github.com/AryaWirawwn/Praktikum-Post-Test-2/assets/143393183/5988b097-946f-4129-8998-8f400c30dde7)
+
+Jika total harga melebihi saldo maka akan muncul pesan "Saldo kurang, silahkan isi saldo dulu!"
+
+**3. Saldo**
+
+![image](https://github.com/AryaWirawwn/Praktikum-Post-Test-2/assets/143393183/235529cb-bfa7-4e16-96fa-93054fce730c)
+
+Untuk masuk ke menu saldo dapat dilakukan dengan cara memilih angka 3 di menu pembeli. Di dalam menu ini terdapat 2 pilihan untuk menampilkan saldo dan mengisi saldo.
+
+**a. Tampilkan Saldo**
+
+![image](https://github.com/AryaWirawwn/Praktikum-Post-Test-2/assets/143393183/3aeb9267-a417-4dce-adb1-9850d3f8f35d)
+
+Jika memilih angka 1 maka akan langsung muncul saldo yang pembeli miliki sekarang dan kembali ke menu pembeli.
+
+**b. Isi Saldo**
+
+![image](https://github.com/AryaWirawwn/Praktikum-Post-Test-2/assets/143393183/4b54cab7-283d-4a39-a9f9-22136aa0ec2b)
+
+Jika memilih angka 2 maka akan langsung muncul masukkan nominal saldo sebagai contoh saya akan memasukkan Rp. 250.000.
+
+![image](https://github.com/AryaWirawwn/Praktikum-Post-Test-2/assets/143393183/3a763baf-823c-43aa-bfa1-0d0bd7365ad5)
+
+Setelah itu akan muncul saldo setelah ditambah.
+
+**4. Keluar**
+
+![image](https://github.com/AryaWirawwn/Praktikum-Post-Test-2/assets/143393183/6ddde68c-e387-46d0-a732-ef7ed0c24c91)
+
+Keluar dari menu admin dapat dilakukan dengan cara memilih angka 4. Program akan keluar dari menu pembeli dan akan kembali ke menu awal.
+
+**5. Angka Selain 1-4**
+
+![image](https://github.com/AryaWirawwn/Praktikum-Post-Test-2/assets/143393183/a8c2ece8-fbfe-4633-a5d1-41b77d1a0237)
+
+Jika angka yang dimasukkan selain angka 1 sampai 4 maka akan muncul pesan "Tidak ada menu untuk angka {menu admin}."
