@@ -4,6 +4,13 @@ Nama : Muhammad Aryaputra Wirawan\
 NIM : 2309116027\
 Kelas : A\
 Tema : Toko Gitar
+# Daftar Isi
+- [Profil](https://github.com/AryaWirawwn/Praktikum-Post-Test-2/edit/main/README.md#profil)
+- [Daftar Isi](https://github.com/AryaWirawwn/Praktikum-Post-Test-2/edit/main/README.md#daftar-isi)
+- [Flowchart](https://github.com/AryaWirawwn/Praktikum-Post-Test-2/edit/main/README.md#flowchart)
+- [Output]()
+
+
 # Flowchart
 
 ![Posttest2 drawio](https://github.com/AryaWirawwn/Praktikum-Post-Test-2/assets/143393183/f91ddd6c-e560-4d60-bfcf-bf6504eb404b)
@@ -181,4 +188,4 @@ Keluar dari menu admin dapat dilakukan dengan cara memilih angka 4. Program akan
 
 ![image](https://github.com/AryaWirawwn/Praktikum-Post-Test-2/assets/143393183/a8c2ece8-fbfe-4633-a5d1-41b77d1a0237)
 
-Jika angka yang dimasukkan selain angka 1 sampai 4 maka akan muncul pesan "Tidak ada menu untuk angka {menu admin}."
+Jika angka yang dimasukkan selain angka 1 sampai 4 maka akan muncul pesan "Tidak ada menu untuk angka {angka yang dimasukkan}."
