@@ -106,7 +106,7 @@ def menuUser():
                 if totalHarga <= saldo:
                     saldo -= totalHarga
                     print(f'Selamat barang {namaBarang} berhasil dibeli!')
-                    print(f'Sisa saldo anda adalah {saldo}')
+                    print(f'Sisa saldo anda adalah Rp {saldo}')
                 else:
                     print('Saldo kurang, silahkan isi saldo dulu!')
             else:
