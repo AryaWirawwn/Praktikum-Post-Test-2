@@ -1,15 +1,10 @@
 # Praktikum-Post-Test-2
+
 # Profil
 Nama : Muhammad Aryaputra Wirawan\
 NIM : 2309116027\
 Kelas : A\
 Tema : Toko Gitar
-# Daftar Isi
-- [Profil](https://github.com/AryaWirawwn/Praktikum-Post-Test-2/edit/main/README.md#profil)
-- [Daftar Isi](https://github.com/AryaWirawwn/Praktikum-Post-Test-2/edit/main/README.md#daftar-isi)
-- [Flowchart](https://github.com/AryaWirawwn/Praktikum-Post-Test-2/edit/main/README.md#flowchart)
-- [Output]()
-
 
 # Flowchart
 
@@ -122,7 +117,6 @@ Jika angka yang dimasukkan selain angka 1 sampai 5 maka akan muncul pesan "Tidak
 ## Menu Pembeli
 
 ![image](https://github.com/AryaWirawwn/Praktikum-Post-Test-2/assets/143393183/11a8a718-55a3-4aad-b9e8-c65920c61a50)
-
 
 Menu pembeli akan muncul jika angka 2 dipilih di menu awal.
 
